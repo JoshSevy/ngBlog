@@ -1,0 +1,11 @@
+identifier: lclfxc90keu3a47e
+appPort: 1864
+staticPort: 1668
+reloadPort: 2667
+hostName: localhost
+projectName: my-blog
+homeFolder: /Users/joshuasevy/code/packt/angular_projects/another-blog
+distFolder: dist/my-blog
+outDir: /Users/joshuasevy/code/packt/angular_projects/another-blog/dist/static
+handle404: ''
+allowErrorCollect: true
